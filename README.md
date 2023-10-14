@@ -2,7 +2,7 @@
 
 I'm Berke Özcan. I've been programming since middle school.
 
-## What I do
+## My Skills
 
 Game Programming with Godot
 
