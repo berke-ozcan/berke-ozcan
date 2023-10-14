@@ -4,7 +4,7 @@ I'm Berke Özcan. I've been programming since middle school.
 
 ## My Skills
 
-Game Programming with Godot
+Godot - GDScript
 
 Visual C#
 
