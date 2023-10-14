@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Berke Özcan. I've been programming since middle school.
+I'm Berke Özcan. I've been programming since the middle school.
 
 ## My Skills
 
