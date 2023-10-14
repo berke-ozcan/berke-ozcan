@@ -10,7 +10,9 @@ Visual C#
 
 Android Studio - Java
 
+## My pages
 
+Itch.io: https://berke-ozcan.itch.io/
 
 
 
