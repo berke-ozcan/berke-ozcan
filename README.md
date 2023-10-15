@@ -16,7 +16,7 @@ Itch.io: https://berke-ozcan.itch.io/
 
 WCA: https://www.worldcubeassociation.org/persons/2018OZCA01
 
-LinkedIn: https://www.linkedin.com/in/berke-%C3%B6zcan-721658296/
+LinkedIn: www.linkedin.com/in/berkeozcancode
 
 
 
