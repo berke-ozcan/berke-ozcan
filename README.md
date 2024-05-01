@@ -7,19 +7,13 @@ school. I always give importance to developing myself.
 
 ## My Skills
 
-C#, C, Python, Java
-
-Godot & GDScript, Unity
-
-Project Management
-
-Microsoft Office
-
-Computer Vision, YOLO Algorithms
-
-Image Processing, OpenCV
-
-Problem Solving
+- C#, C, Python, Java
+- Godot & GDScript, Unity
+- Project Management
+- Microsoft Office
+- Computer Vision, YOLO Algorithms
+- Image Processing, OpenCV
+- Problem Solving
 
 ## My pages
 
