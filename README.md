@@ -1,21 +1,22 @@
-# Hello!
+# 👋Hello!
 
 I'm Berke Özcan. I'm a hardworking, motivated and dedicated computer engineering
 student with a background in programming. I always look forward to be
 a master of my area and work hard for it since I was in middle
 school. I always give importance to developing myself.
 
-## My Skills
+## 💻My Skills
 
 - C#, C, Python, Java
 - Godot & GDScript, Unity
 - Project Management
 - Microsoft Office
-- Computer Vision, YOLO Algorithms
+- Computer Vision, YOLO
 - Image Processing, OpenCV
 - Problem Solving
+- Twisty Puzzles & Speedcubing
 
-## My pages
+## 🌍My pages
 
 Itch.io: https://berke-ozcan.itch.io/
 
